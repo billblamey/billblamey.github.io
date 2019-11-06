@@ -1,0 +1,155 @@
+# Experience template
+- layout: left
+  company: BNP Paribas
+  link: bnpparibas.com
+  job_title: Program Manager, Droit Eligibility Engine / MiFiD Cost and Charges
+  dates: May 2017- Oct 2019
+  quote: >
+    Integrating a rules based regulatory engine into a full stack and fixing cost calculations in a full stack
+  description: | # this will include new lines to allow paragraphs
+    Implementing a 3rd party FinTech regulatory rules engine into BNPP front office tech stack across all asset classes. 
+    Running cross asset delivery across multiple teams and asset class based streams. 
+    Project management of multiple teams to deliver ex-post cost and charges reporting. 
+    Analysis of cost figures. 10 million records heuristically analysed and corrected.
+
+
+- layout: left
+  company: Santander
+  link: santander.com
+  job_title: Rates IT Partner (Program Manager)
+  dates: Oct 2015 - Dec 2016
+  quote: >
+    Delivering IT across the entire Fixed Income Stack
+  description: | # this will include new lines to allow paragraphs
+    As the primary IT interface between the Rates business and the various Santander technology divisions, local and global, the IT partner is responsible for the budgets, planning and delivery for all technology projects. 
+    Main areas of focus was running 
+    the business as usual RAD project, 
+    implementing a robust governance mechanism and delivering a MiFiD compliant Rates E-comm infrastructure (ION/Bloomberg),
+    replacing the front office pricing and risk platform with an in-house model driven solution and upgrading the desk from obsolete risk technology (Murex). 
+    In each of these areas I initially assumed the role of project manager, 
+    running daily SCRUM calls, 
+    working out the immediate priorities with the stakeholders, 
+    planning an effective delivery route, 
+    tracking against the plan and supplying the PMO the weekly status reports.
+
+
+- layout: left
+  company: Royal Bank Of Scotland
+  link: rbs.com
+  job_title: Project Manager, Customer Standards Price Construction Policy 
+  dates: Apr - Oct 2015
+  quote: >
+    Making pricing policy fair and consistent
+  description: | # this will include new lines to allow paragraphs
+    As part of a radical change in the way that markets operates in RBS, I was responsible for delivering a new pricing policy in RBS
+    Markets and implementing the necessary changes and controls to ensure that pricing is fair and consistent. 
+    This was a cross asset class project that touches the core principles of pricing. 
+    Daily stakeholder engagement across technology, business management and the change function made this a challenging role relying heavily on my skills as a subject matter expert in pricing and risk.
+
+- layout: left
+  company: Bank Of America - Merrill Lynch
+  link: bofaml.com
+  job_title: Chief Operating Officer, Global Quantitative Group 
+  dates: Mar 2012 - Apr 2014
+  quote: >
+    Organising the Quantitative Group
+  description: | # this will include new lines to allow paragraphs
+    Business plan development for various cross asset (Commodities, Fixed income and currencies, credit, equities, algorithmic trading) technology and quantitative programs for group of 200 quants, including the global planning process and program management of various regulatory projects and the yield curve unification. 
+
+    In this role in addition to using my extensive technical knowledge, I expanded my knowledge of business accounting, learning enrichment, cross team coordination through town halls and focus groups.
+
+    Negotiated successfully various supplier contracts, saving BAML millions
+
+
+- layout: left
+  company: Bank Of America - Merrill Lynch
+  link: bofaml.com
+  job_title: Chief Information Officer (CIO), Global Foreign Exchange
+  dates: May 2010 – Mar 2012
+  quote: >
+     Merging two huge IT infrastructures and pushing the implementation of quartz(python)
+  description: | # this will include new lines to allow paragraphs
+    Post merger coordinated technology direction for GFX. 
+    Coordinated the technology business value add with multiple business heads (Spot, Fwds, Prime brokerage, Options and Sales) across the global organisation and 
+    ensure delivery of that mandate by the then fragmented technology organisation. 
+
+    Major achievements include unification of the main FX cash platform, which 3-5% of the worlds foreign exchange passes through, unification of the FX options platform, helping to build an eFX options platform, setting strategies for the FX Retail systems development, the global support model, the governance of the $70M technology expenditure that supports a business that has direct front office revenues of $950m. The FX Options platform won fx derivatives platform of the year 2012, the business won in 2013. The eFX options platform connected to a number of the then emerging fx options exchanges and I was responsible for this connectivity.
+
+    With the FX Settlement and Treasury sales teams I saw and championed a number of opportunities that lead to me being on the pitching teams for various bids with a number of large US corporates, including winning a landmark deal with AMEX. I also was on a number of industry panels to discuss the implementation of clearing and margining.
+
+
+- layout: left
+  company: Merrill Lynch
+  link: ml.com
+  job_title: Quant Developer Manager, Quantitative Risk Development and Trading Support, Director
+  dates: Apr 1996- May 2010
+  quote: >
+    Build a huge compute farm to give exotic derivatives realtime risk
+  description: | # this will include new lines to allow paragraphs
+    Developed the business strategy, working closely with the business heads, and implement the technology response.
+
+    Managed a team of 7 London based quant developers (CFXRisk core development) and 9 offshore production support (CFXRisk production support). Built a team of exceptional strength.
+
+    Wrote the user guide at BAML for the main FX exotics risk and pricing platforms.
+    Worked with the test and QA teams at Santander and BAML to develop testing strategies for various project implementations.
+    Sign off (and management of stakeholder sign off)  of main FX risk platforms (BAML).
+    Ensure key stakeholders are informed of production outages, liase with production support for level one response and develop level 2 responses with development teams. (BAML)
+
+    Coordinated the integration of models and release cycle for 18 quants.
+
+    Advised another team of 9 developers (GFX Technology risk management, market data support and pricing tools). 
+
+    Responsible for front office risk for the following global businesses derivatives,
+    Complex FX derivatives, Short Dated FX options, GFX STIRT and Vanilla Forwards, LCT FX Option trading
+    and finally Commodity, Equity and FX hybrid business. The revenue from these businesses exceeds 500m.
+     
+    Delivery of high  performance C++ analytic and risk management tools to the traders and marketers. Delivery of risk, P&L, P&L explain and credit numbers to management, regulatory, finance and risk. The technology was mainly Windows GUI front end, with a COM interface to Excel risk management summaries with a UNIX and linux distributed back end. The risk run was for 300 books over a 8600 cpu cluster. 
+
+    Gained knowledge of many exotic products, having implemented many models myself. Met the large number of internal and external audit and regulatory requirements for these books and records systems.
+
+    Initially started as a front office desk quant. Writing C++ MonteCarlo simulations of hedging costs. Wrote the initial PRD model using a trinomial tree. In 1996 with the traders we built an Excel based risk management system.
+
+
+- layout: left
+  company: JPMorgan
+  link: jpmorgan.com
+  job_title: Associate Quant Technology
+  dates: Apr 1993 - Apr 1996
+  quote: >
+    Writing and fixing equity and bond derivatives pricing models
+  description: | # this will include new lines to allow paragraphs
+    Equity Derivative Pricing Models.
+    Test and bug fix convertible Bond Model Addin, lead to $150m revenue. Regression tester. Reduced release cycle.
+
+    Fixed Income Trader Analytics 
+    Lead a dynamic, client focused front office team with three direct reports.
+    Planning and project monitoring. Recruitment, training and appraising of direct reports.
+     Ran a two week training course for 30 JPMorgan new recruits in Financial Markets.
+
+
+- layout: left
+  company: Oxford Forecasting Services
+  link: beta.companieshouse.gov.uk/company/04582938
+  job_title: Computing Officer
+  dates: Jan 1992 - Apr 1993
+  quote: >
+    Working night and day in quant hedge fund startup
+  description: | # this will include new lines to allow paragraphs
+    Primary responsibilty for IT in company. 
+    Design implementation and delivery of 24 hour forex technical trading system using non-linear dynamics (chaos theory). 
+    Design and implementation of reliable data capture system. Running of computing network. 
+    Purchase of hardware/software. Recruitment of staff. Scheduling and running of research schedule. Liaison with consultants. Production of statistical reports. Production of marketing information. Objective C UNIX NeXT REUTERS
+
+
+- layout: left
+  company: BP Oil International Graduate Trainee
+  link: bp.com
+  job_title: Programmer Analyst - AI Researcher
+  dates: Sep 1988 - Dec 1991
+  quote: >
+    Hybrid start to my career - oil business and technology research
+  description: | # this will include new lines to allow paragraphs
+    Programmer Analyst, BP Oil. Four Man Project to develop generic client server refinery graphics system, based on formal methods techniques, C++ MOTIF and X.
+
+    AI Researcher, BP Research. Formal methods, genetic algorithms, Machine learning and expert systems. Object Oriented Programming, functional language development, application of MapReduce.
+

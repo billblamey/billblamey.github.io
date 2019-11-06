@@ -1,0 +1,89 @@
+# Site
+repository: billblamey/billblamey.github.io
+favicon: images/yellowsmirk.ico
+
+# Personal info
+name: William Blamey
+title: Founder at FOGU
+email: william.blamey@fogu.co.uk
+website: blamey.fogu.co.uk
+
+# Social links
+twitter_username: BlameyWilliam
+github_username:  billblamey
+# dribbble_username: jekyll
+facebook_username: william.blamey
+# flickr_username: jekyll
+instagram_username: williamblamey
+linkedin_username: https://www.linkedin.com/in/william-b-261b4867
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/bblameyavatar.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I'm William Blamey - Americans call me Bill. I think of myself as a mathematician who can see the big picture and run big projects.
+
+  I am most skilled in understanding business architecture, big piles of inter connected legacy systems and delivering robust functional technology projects
+
+  <mark>Career Summary<mark>
+
+  Front Office delivery focused leader with pragmatic business program/project management. 
+  
+  eTrading, Derivatives Market Risk and Technology expert with excellent business and mathematical knowledge that shows proven problem solving capability.
+
+  Extensive career developing and delivering front office derivative risk quantitative technology as a senior hands on technical IT project manager and program manager.
+
+  Delivered innovative, best in city, front office risk and eFX Options platforms.
+  
+  Excellent line and project manager of 20+ developers and support staff.
+  
+  Made key strategic technology decisions at BAML GFX with a $70m program budget for a business with $950m Revenue, 400 producers, 400 Technologists.
+
+  Skilled at setting up governance structures and reporting critical milestones to senior business management.
+  
+  Solid mathematical skills. Formal programming language proofs. Oxford MA.
+
+  Good programming ability. Functional programming in agile style. (20 Years C++, MS Excel, Python)
+
+  Exceptional business analysis, derivative product knowledge.
+
+  Solid team building and project planning skills. MS Project
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my professional interests, some other facts:
+   - I have four daughters from three mothers - we all get along fine, most of the time, thank you for asking 
+      <img src="images/WilliamAnd4DaughtershalfMB.png" alt="My 4 daughters" width="320"
+         height="180">
+   - I'm passionate about the science of climate change
+   - LBGT and BAME inclusion is a critical issue for me
+   - I can ski steep powder gullies without *fear or hesitation* 
+   <video width="320" height="240" controls> <source src="videos/1341412_10151546567301161_17949_n.mp4" type="video/mp4"> </video> 
+   
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+theme: jekyll-theme-architect
