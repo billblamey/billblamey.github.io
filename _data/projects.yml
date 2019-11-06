@@ -1,0 +1,21 @@
+# Project template
+- layout: top-middle
+  name: FRTB.IO
+  link: github.com/billblamey
+  github: billblamey/frtb
+  quote: >
+    Financial service consultancy specialising in FRTB and LIBOR transition
+  description: | # this will include new lines to allow paragraphs
+    This is my main startup idea at the moment - it seems that the banks will be holding far more capital after FRTB in 2022 if their models, data and processes are not sorted out
+
+
+- layout: top-middle
+  name: FOGU
+  link: www.fogu.co.uk
+  github: billblamey/frtb
+  quote: >
+    Freelance Financial service consultant specialising in regulatory change and the delivery of that in technology
+  description: | # this will include new lines to allow paragraphs
+    Main source of income currently, working as a specialised project manager in investment banks.
+
+
