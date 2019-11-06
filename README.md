@@ -1,2 +1,2 @@
 # billblamey.github.io
-Mainly for my CV
+Jekyll Yaml gitpages version of my CV
