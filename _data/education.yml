@@ -1,9 +1,9 @@
 - layout: left
   name: Wadham College Oxford University
-  dates: Oct 1985 June 1988
+  dates: Oct 1985 - June 1988
   qualification: B.A. Honours Mathematics
   quote: >
-    Established before Harvard Even
+    Established before Harvard even. Met some great mathematicians.
   description: | # this will include new lines to allow paragraphs
      II(i). First in Honour Moderations. 
 
@@ -13,7 +13,7 @@
 
 - layout: left
   name: Bishop Wordsworth Grammar School, Salisbury.
-  dates: Sep 1983 June 1985
+  dates: Sep 1983 - June 1985
   qualification: Further Mathematics(A), Mathematics(A/1), Physics(A), Chemistry(A).
   quote: >
     A great Grammar School underneath a medieval cathederal
