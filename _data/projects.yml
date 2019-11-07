@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
   name: FRTB.IO
-  link: github.com/billblamey
+  link: frtb.io
   github: billblamey/frtb
   quote: >
     Financial service consultancy and cloud based analytic engine specialising in FRTB and LIBOR transition
@@ -17,7 +17,7 @@
 - layout: top-middle
   name: FOGU
   link: www.fogu.co.uk
-  github: billblamey/frtb
+  #github: billblamey/frtb
   quote: >
     Freelance Financial service consultant specialising in regulatory change and the delivery of that in technology
   description: | # this will include new lines to allow paragraphs
