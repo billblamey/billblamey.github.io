@@ -26,7 +26,7 @@ about_profile_image: images/bblameyavatar.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm William Blamey - Americans call me Bill. I am a mathematician who can see the big picture and run big projects.
 
-  I am most skilled in understanding business architecture, big piles of inter connected legacy systems and delivering robust functional technology projects. I can code and do detailed business analysis as well.
+  I am most skilled in understanding business architecture, big piles of interconnected legacy systems and delivering robust functional technology projects. I can code and do detailed business analysis as well.
 
   <mark>Career Summary<mark>
 
@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: End
 #more_content: | # this will include new lines to allow paragraphs
 #  Alongside my professional interests, some other facts:
 #   - I have four daughters from three mothers - we all get along fine, most of the time, thank you for asking 

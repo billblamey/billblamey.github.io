@@ -9,7 +9,7 @@
     This is my main startup idea at the moment - it seems that the banks will be holding far more capital after FRTB in 2022 if their models, data and processes are not sorted out.
     The goal would be to push the SA calculation to one of the big data ecosystems in a standard secure way. 
     Some alteratives are AWS EMR for Hadoop and Spark, Dynamo DB, Glue, Kinesis,
-    Cloudera Data Platform, Google Cloud Platform and Microsoft Azure
+    Cloudera Data Platform, Google Cloud Platform and Microsoft Azure.
 
 # https://datacognate.com/2019/05/30/cloudera-vs-aws-vs-azure-vs-google-cloud-how-to-decide-on-the-right-big-data-platform/
 
