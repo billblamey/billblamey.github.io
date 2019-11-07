@@ -10,7 +10,7 @@
     Implementing a 3rd party FinTech regulatory rules engine into BNPP front office tech stack across all asset classes. 
     Running cross asset delivery across multiple teams and asset class based streams. 
     Project management of multiple teams to deliver ex-post cost and charges reporting. 
-    Analysis of cost figures. 10 million records heuristically analysed and corrected.
+    Analysis of cost figures in MS Excel and SQL. 10 million records heuristically analysed and corrected.
 
 
 - layout: left
@@ -149,7 +149,7 @@
   quote: >
     Hybrid start to my career - oil business and technology research
   description: | # this will include new lines to allow paragraphs
-    Programmer Analyst, BP Oil. Four Man Project to develop generic client server refinery graphics system, based on formal methods techniques, C++ MOTIF and X.
+    Programmer Analyst, BP Oil. Four Man Project to develop generic client server refinery graphics system, based on formal methods techniques, Unix, C++ MOTIF and X.
 
     AI Researcher, BP Research. Formal methods, genetic algorithms, Machine learning and expert systems. Object Oriented Programming, functional language development, application of MapReduce.
 
