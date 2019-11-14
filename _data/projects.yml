@@ -1,6 +1,6 @@
 # Project template
-- layout: top-middle
-  name: FRTB.IO
+- layout: top
+  name: <i>FRTB.IO </i> Building an open cloud architecture 
   link: frtb.io
   github: billblamey/frtb
   quote: >
@@ -13,14 +13,22 @@
 
 # https://datacognate.com/2019/05/30/cloudera-vs-aws-vs-azure-vs-google-cloud-how-to-decide-on-the-right-big-data-platform/
 
-
-- layout: top-middle
-  name: FOGU
+- layout: top
+  name: <i>FOGU</i> Running a financial services company 
   link: www.fogu.co.uk
   #github: billblamey/frtb
   quote: >
     Freelance Financial service consultant specialising in regulatory change and the delivery of that in technology
   description: | # this will include new lines to allow paragraphs
     Main source of income currently, working as a specialised project manager in investment banks.
+
+- layout: top
+  name: <i> HMRCincomeTaxPerecntiles</i> Learning data science tools and looking at income tax in the uk 
+#  link: www.fogu.co.uk
+  github: billblamey/hmrcincometaxpercentiles
+  quote: >
+    Drawing interesting graphs on the hmrc inland revenue data
+  description: | # this will include new lines to allow paragraphs
+    Learning more pandas, numpy, seaborn, matplotlib, python
 
 
